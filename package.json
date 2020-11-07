@@ -1,0 +1,15 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Andrei Kamarou",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "npx electron main.js"
+  },
+  "description": "",
+  "devDependencies": {
+    "electron": "^11.0.0-beta.20"
+  }
+}
